@@ -1,0 +1,8 @@
+AuthorName: nextcloud-neon-nightly
+AuthorWebSite: https://github.com/provokateurin
+Categories:
+- nightly
+Description: Nightly build of provokateurin/nextcloud-neon
+IssueTracker: https://github.com/provokateurin/nextcloud-neon/issues
+SourceCode: https://github.com/provokateurin/nextcloud-neon
+Summary: Nightly build of provokateurin/nextcloud-neon
