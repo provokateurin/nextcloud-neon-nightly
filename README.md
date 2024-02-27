@@ -3,4 +3,4 @@
 
 [![https://raw.githubusercontent.com/provokateurin/nextcloud-neon-nightly/master/fdroid/repo](https://raw.githubusercontent.com/provokateurin/nextcloud-neon-nightly/master/fdroid/repo/icons/icon.png)](https://raw.githubusercontent.com/provokateurin/nextcloud-neon-nightly/master/fdroid/repo)
 
-Last updated: 2024-02-26 05:27:10 UTC
+Last updated: 2024-02-27 05:27:13 UTC
