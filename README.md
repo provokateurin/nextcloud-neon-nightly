@@ -1,6 +1,9 @@
 
 # provokateurin/nextcloud-neon-nightly
 
-[![https://raw.githubusercontent.com/provokateurin/nextcloud-neon-nightly/master/fdroid/repo](https://raw.githubusercontent.com/provokateurin/nextcloud-neon-nightly/master/fdroid/repo/icons/icon.png)](https://raw.githubusercontent.com/provokateurin/nextcloud-neon-nightly/master/fdroid/repo)
+This is an app repository for nightly versions.
+You can use it with the [F-Droid](https://f-droid.org/) Android app.
 
-Last updated: 2024-04-03 05:29:27 UTC
+[![https://raw.githubusercontent.com/provokateurin/nextcloud-neon-nightly/master/fdroid/repo](https://raw.githubusercontent.com/provokateurin/nextcloud-neon-nightly/master/fdroid/repo/icons/icon.png)](https://fdroid.link/#https://raw.githubusercontent.com/provokateurin/nextcloud-neon-nightly/master/fdroid/repo)
+
+Last updated: 2024-04-04 05:30:35 UTC
