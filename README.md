@@ -6,4 +6,4 @@ You can use it with the [F-Droid](https://f-droid.org/) Android app.
 
 [![https://raw.githubusercontent.com/provokateurin/nextcloud-neon-nightly/master/fdroid/repo](https://raw.githubusercontent.com/provokateurin/nextcloud-neon-nightly/master/fdroid/repo/icons/icon.png)](https://fdroid.link/#https://raw.githubusercontent.com/provokateurin/nextcloud-neon-nightly/master/fdroid/repo)
 
-Last updated: 2024-06-01 05:32:57 UTC
+Last updated: 2024-06-02 05:30:37 UTC
